@@ -3,7 +3,7 @@ This is a Regression Modelling Task as a part of a Machinehack Hackhathon - http
 
 Hachathon Leaderboard Ranking - https://www.machinehack.com/course/predicting-the-costs-of-used-cars-hackathon-by-imarticus/leaderboard
 
-To view the Blog for the above code files, Visit Link - https://medium.com/@debayanmitra1993/my-first-machine-learning-hackathon-attempts-for-finishing-in-top-17-1202fdafda06
+To view the Blog for the above code files, Visit Link - https://medium.com/analytics-vidhya/my-first-machine-learning-hackathon-attempts-for-finishing-in-top-17-1202fdafda06
 
 There are 3 ipynb files (in order) - (script_py_enahnced_1.ipynb) > (script_py_enahnced_2.ipynb) > (script_py_enahnced_3.ipynb) 
 All Experimentation and Models are in .ipynb files. Table of Contents and sections in .ipynb files as below :-
