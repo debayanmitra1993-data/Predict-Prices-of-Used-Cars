@@ -5,8 +5,7 @@ Hachathon Leaderboard Ranking - https://www.machinehack.com/course/predicting-th
 
 To view the Blog for the above code files, Visit Link - https://medium.com/analytics-vidhya/my-first-machine-learning-hackathon-attempts-for-finishing-in-top-17-1202fdafda06
 
-There are 3 ipynb files (in order) - (script_py_enahnced_1.ipynb) > (script_py_enahnced_2.ipynb) > (script_py_enahnced_3.ipynb) 
-All Experimentation and Models are in .ipynb files. Table of Contents and sections in .ipynb files as below :-
+There are 3 ipynb files (in order) - (script_py_enahnced_1.ipynb) > (script_py_enahnced_2.ipynb) > (script_py_enahnced_3.ipynb).All the Experimentation and Models are in .ipynb files. Table of Contents and sections in .ipynb files as below :-
 
 | S.No: | Section  | Notebook(.ipynb) |
 | ----  | --------- | ------------- |
