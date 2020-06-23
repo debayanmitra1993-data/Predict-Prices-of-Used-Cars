@@ -9,7 +9,7 @@ There are 3 ipynb files (in order) - (script_py_enahnced_1.ipynb) > (script_py_e
 
 All the Experimentation and Models are in .ipynb files. Table of Contents and sections in .ipynb files as below :-
 
-| S.No: | Section  | Notebook(.ipynb) |
+| Section No: | Section  | Notebook(.ipynb) |
 | ----  | --------- | ------------- |
 | 1.    | Import Libs|  script_py_enahnced_1.ipynb |
 | 2.    | Load data|  script_py_enahnced_1.ipynb |
